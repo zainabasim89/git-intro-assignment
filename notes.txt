@@ -1,0 +1,4 @@
+I learned push, pull, clone, and fork concepts.
+I learned how original files can be restored.
+I also learned how to change the origin of a repository.
+I learned the difference between git add, git commit, and git push: git add stages changes, git commit saves them locally, and git push uploads them to GitHub.
